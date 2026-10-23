@@ -1,3 +1,6 @@
-Jeu Halloween épuré : vidéo → accueil → formulaire Eval&Go.
-Déposez tous les fichiers à la racine du dépôt GitHub Pages.
-Le formulaire externe est administré dans Eval&Go.
+Halloween — version mobile v9
+1. Remplacer TOUS les fichiers sur GitHub Pages.
+2. Vidéo en plein écran sur mobile (recadrage object-fit:cover).
+3. Accueil compact, puis Eval&Go seul.
+4. L’iframe Eval&Go est réduite visuellement à 70% (65% sur les écrans très étroits). Les polices internes sont gérées sur Eval&Go.
+5. Tester avec un nouvel onglet privé après publication.
