@@ -1,0 +1,3 @@
+Jeu Halloween épuré : vidéo → accueil → formulaire Eval&Go.
+Déposez tous les fichiers à la racine du dépôt GitHub Pages.
+Le formulaire externe est administré dans Eval&Go.
